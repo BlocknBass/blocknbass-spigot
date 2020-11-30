@@ -1,0 +1,7 @@
+name: BlocknBassSpigot
+version: 1.0.0
+main: nl.blocknbass.spigot.BlocknBassPlugin
+commands:
+  reconnectclients:
+    description: Recconect clients
+    usage: /<command>
